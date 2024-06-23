@@ -1,7 +1,7 @@
 # Xcode
 
 ## User settings
-xcuserdata/
+project.xcuserdata/
 
 ## Obj-C/Swift specific
 *.hmap
